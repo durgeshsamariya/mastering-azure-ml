@@ -1,1 +1,1 @@
-# mastering-azure-ml
+# Mastering Azure ML
